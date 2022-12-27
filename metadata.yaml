@@ -1,0 +1,32 @@
+_repo: Landesverein-Sachsischer-Heimatschutz-Mitteilungen-Band-XI-Heft-10-12-Monatsschrift-fur-Heima__69359
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Landesverein Sächsischer Heimatschutz
+    aliases:
+    - Heimatschutz, Landesverein Sächsischer
+    - Landesverein Sachsischer Heimatschutz
+    gutenberg_agent_id: '53108'
+    url: http://www.gutenberg.org/2009/agents/53108
+    wikipedia: https://de.wikipedia.org/wiki/Landesverein_S%C3%A4chsischer_Heimatschutz
+description: ''
+gutenberg_issued: '2022-11-15'
+identifiers:
+  gutenberg: '69359'
+language: de
+pgterms:marc905: 20210827055522schsischer
+pgterms:marc906: '1922'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: 'Germany: Landesverein Sächsischer Heimatschutz,1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nature conservation -- Germany -- Saxony -- Periodicals'
+- !lcsh 'Saxony (Germany) -- Periodicals'
+- !lcc 'DD'
+- GITenberg
+title: "Landesverein Sächsischer Heimatschutz — Mitteilungen Band XI, Heft 10-12\r\
+  \nMonatsschrift für Heimatschutz und Denkmalpflege"
+url: http://www.gutenberg.org/ebooks/69359
